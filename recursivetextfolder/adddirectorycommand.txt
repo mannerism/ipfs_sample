@@ -1,0 +1,1 @@
+ipfs -r <directory name> //in order to add files within the directory recursively
