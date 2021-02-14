@@ -1,0 +1,2 @@
+to generate new ipns key named 'trains' : ipfs key gen --type=rsa --size=2048 trains
+to get the list of all keys: ipfs key list 
