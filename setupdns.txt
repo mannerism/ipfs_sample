@@ -1,0 +1,1 @@
+settingupdnslink: https://dnslink.io/, https://docs.ipfs.io/concepts/dnslink/\#resolve-using-dnslink
