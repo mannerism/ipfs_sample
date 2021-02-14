@@ -1,0 +1,4 @@
+ipfs ls -v <hash> 
+ipfs object links -v <hash>
+to see all related sub hashes
+ipfs breaks down a large file down to several different hashes that are 256kb and form a merkle tree data structure called merle dag.
